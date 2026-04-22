@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="jarvis.png" alt="JARVIS Capa" width="100%">
+</div>
 # 🎙️ S.I. JARVIS - Mark 85
 
 ![Status](https://img.shields.io/badge/Status-Finalizado-red?style=for-the-badge)
