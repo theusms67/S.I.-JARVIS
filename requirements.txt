@@ -1,0 +1,6 @@
+speech_recognition
+sounddevice
+numpy
+scipy
+edge-tts
+requests
